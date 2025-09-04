@@ -1,4 +1,4 @@
-module keyderivation
+module github.com/kevinroleke/go-ardor-key-derivation
 
 go 1.21
 
